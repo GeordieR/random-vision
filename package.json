@@ -1,0 +1,19 @@
+{
+  "name": "random-vision",
+  "version": "1.0.0",
+  "description": "A password generator that uses your webcam to create a close to random pasword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/GeordieR/random-vision.git"
+  },
+  "author": "Geordie Rogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/GeordieR/random-vision/issues"
+  },
+  "homepage": "https://gitlab.com/GeordieR/random-vision#readme"
+}
