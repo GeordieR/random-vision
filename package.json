@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/GeordieR/random-vision/issues"
   },
-  "homepage": "https://gitlab.com/GeordieR/random-vision#readme"
+  "homepage": "https://gitlab.com/GeordieR/random-vision#readme",
+  "dependencies": {
+    "node-webcam": "^0.4.6"
+  }
 }
