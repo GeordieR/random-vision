@@ -10,7 +10,7 @@ This is a small side project that [@liambyrnenz](https://liambyrne.nz/) and I ca
 
 1. Clone the repository `git clone https://gitlab.com/GeordieR/random-vision.git`
 2. Install the dependencies by running `npm install` from within `random-vision/`
-3. Run the program by running `node index.js` from within `random-vision/`
+3. Run the program by running `node index.js` from within `random-vision/`. You can also generate a more secure password by adding the `s` parameter (e.g. `node index.js s`).
 
 ## The Future
 
